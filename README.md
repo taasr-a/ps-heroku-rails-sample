@@ -1,9 +1,6 @@
 # README
-
 This is a sample Rails 5 API only app that can be deployed to a Heroku environment.
-
 Here's how to do that:
-
 * Make sure you have a Heroku account
 
 * Clone this repo to your computer `git clone https://github.com/dlbunker/ps-heroku-rails-sample.git`
